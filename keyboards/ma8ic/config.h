@@ -15,6 +15,8 @@
 
 #define SOFT_SERIAL_PIN D2
 
+#define OLED_FONT_H "lib/glcdfont.c"
+
 #define RGB_DI_PIN D3
 #ifdef RGB_MATRIX_ENABLE
 #define RGB_MATRIX_SPLIT { 32, 37 }
