@@ -3,8 +3,6 @@
 
 #pragma once
 
-#include "config_common.h"
-
 /* key matrix size */
 #define MATRIX_ROWS 10 // Double rows for split keyboards. ma8ic has 5, so define 10
 #define MATRIX_COLS 8
